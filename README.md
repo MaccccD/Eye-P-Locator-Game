@@ -22,3 +22,16 @@ Narrative:
 
 - Fictional Drug Cartel Investigation: Players take on the role of a detective helping the police investigate an illegal drug trading cartel.
 -  Fictional Marketplace Locations: Each decoded location reveals a new lead in the investigation, bringing the player closer to dismantling the cartel.
+
+
+
+
+To download this game, please follow the following steps:
+
+i. Navigate to the Code section in the repository by clicking the green button dropdown menu.
+
+ii. Select the "Download Zip" option. This will download the zip version of the game.
+
+iii. Once the zip has finished downloading, Unzip the project via right-clicking >>> extract all files >> extract.
+
+iv. Double click on the ".exe" file and play :)
